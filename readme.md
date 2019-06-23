@@ -20,10 +20,12 @@ Don't forget to preview and test your application as you work!
 
 ## Quick Setup:
 
-One-time setup - install flask & dotenv packages:
+Code to help Flask locate your app and launch it properly:
 ```bash
-pip install flask
-pip install python-dotenv
+export FLASK_APP=main.py
+export FLASK_RUN_HOST=0.0.0.0
+export FLASK_RUN_PORT=8080
+export FLASK_DEBUG=1
 ```
 Code to run flask:
 ```bash
