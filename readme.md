@@ -27,6 +27,13 @@ export FLASK_RUN_HOST=0.0.0.0
 export FLASK_RUN_PORT=8080
 export FLASK_DEBUG=1
 ```
+
+If you get character set errors, use these two additional lines:
+```bash
+export LC_ALL=en_US.utf-8
+export LANG=en_US.utf-8
+```
+
 Code to run flask:
 ```bash
 flask run
