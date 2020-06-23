@@ -20,7 +20,7 @@ Don't forget to preview and test your application as you work!
 
 ## Quick Setup:
 
-Code to help Flask locate your app and launch it properly:
+Code to make sure your application hot-reloads on file saves:
 ```bash
 export FLASK_DEBUG=1
 ```
