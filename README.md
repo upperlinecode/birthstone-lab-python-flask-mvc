@@ -2,7 +2,7 @@
 
 The goal of this lab is to create a web application that takes in a user's birth month, and outputs their birthstone. For example, someone born in December should be told that their birthstone is Turquoise.
 
-<img src='http://abigailsjewelbox.com/sitefiles/wp-content/uploads/2016/12/birthstonechart.jpg'>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4CS7kQxoMYpy-vXqy_kH9SLDDba96bCVJCw&usqp=CAU'>
 
 Some of the styling has been done for you, but the rest of the application needs to be created in `model.py`, `routes.py`, `index.html`, and `results.html`.
 
@@ -22,9 +22,6 @@ Don't forget to preview and test your application as you work!
 
 Code to help Flask locate your app and launch it properly:
 ```bash
-export FLASK_APP=main.py
-export FLASK_RUN_HOST=0.0.0.0
-export FLASK_RUN_PORT=8080
 export FLASK_DEBUG=1
 ```
 
