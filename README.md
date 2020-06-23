@@ -1,6 +1,6 @@
 # Flask Birthstone Lab
 
-The goal of this lab is to create a web application that takes in a user's birth month, and outputs their birthstone. For example, someone born in December should be told that their birthstone is Turquoise.
+The goal of this lab is to create a web application that takes in a user's birth month, and outputs their birthstone. For example, someone born in December should be told that their birthstone is Turquoise or Topaz (depending on which chart you use).
 
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4CS7kQxoMYpy-vXqy_kH9SLDDba96bCVJCw&usqp=CAU'>
 
